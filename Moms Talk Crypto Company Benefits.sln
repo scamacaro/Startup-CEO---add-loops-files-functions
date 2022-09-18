@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moms Talk Crypto Company Benefits", "Moms Talk Crypto Company Benefits.csproj", "{5AA207CA-B5D6-4457-9743-D53617E7917E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA207CA-B5D6-4457-9743-D53617E7917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA207CA-B5D6-4457-9743-D53617E7917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA207CA-B5D6-4457-9743-D53617E7917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA207CA-B5D6-4457-9743-D53617E7917E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F6A144-5586-47BD-A7ED-FECFEA957D25}
+	EndGlobalSection
+EndGlobal
